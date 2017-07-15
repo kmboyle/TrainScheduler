@@ -1,0 +1,33 @@
+body {
+	background-image: url("monet.jpg");
+	background-color: #55a1ec;
+	background-origin: content-box;
+	background-size: 100% 100%;
+	color: darkblue;
+	font-weight: bold;
+
+}
+.container{
+	
+	
+}
+
+.jumbotron{
+	border: 5px solid #55a1ec;
+	background-color:hsla(207,66%,68%,0.1);
+}
+.panel {
+	border: 5px solid #55a1ec;
+	background-color:hsla(207,66%,68%,0.5);
+}
+#results, #search{
+		background-color:hsla(240,100%,27%,0.9);
+	font-weight: bold;
+	color: #55a1ec;
+
+}
+#name-input, #destination-input, #time-input, #frequency-input{
+	background-color:hsla(240,100%,27%,0.7);
+	font-weight: bold;
+	color: #55a1ec;
+}
